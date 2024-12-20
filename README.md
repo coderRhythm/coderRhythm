@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @coderRhythm
-- 👀 I’m interested in developing a website in coding
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on hackathons for making websites
-- 📫 How to reach me :: you can reach me through git hub 
+👋 Hi, I’m Rhythm Sethiya
+👀 I’m passionate about website development , machine learning and opencv part and coding
+🌱 I’m currently enhancing my skills in web development
+💞️ I’m looking to collaborate on hackathons focused on building innovative websites
 
 <!---
 coderRhythm/coderRhythm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
