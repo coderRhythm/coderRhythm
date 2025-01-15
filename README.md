@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Enchancing security systems in Node.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-rhythmsethiya.netlify.app/](https://portfolio-rhythmsethiya.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://myreact-portfolio-git-main-coderrhythms-projects.vercel.app/](https://myreact-portfolio-git-main-coderrhythms-projects.vercel.app/)
 
 - 💬 Ask me about **react.js, Node.js, MYSQL, PHP, computer vision, Angular, machine learning, deep learning, LLM.**
 
